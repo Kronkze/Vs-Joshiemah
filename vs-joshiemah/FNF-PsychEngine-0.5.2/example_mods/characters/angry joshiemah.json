@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				168,
+				-140
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "angry joshiemah idle"
+		},
+		{
+			"offsets": [
+				168,
+				-144
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "angry joshiemah left"
+		},
+		{
+			"offsets": [
+				168,
+				-153
+			],
+			"loop": false,
+			"fps": 25,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "angry joshiemah down"
+		},
+		{
+			"offsets": [
+				168,
+				-141
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "angry joshiemah right"
+		},
+		{
+			"offsets": [
+				168,
+				-148
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "angry joshiemah up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/angry joshiemah",
+	"position": [
+		-10,
+		0
+	],
+	"healthicon": "angry",
+	"flip_x": false,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		-740,
+		170
+	],
+	"sing_duration": 4,
+	"scale": 1.2
+}

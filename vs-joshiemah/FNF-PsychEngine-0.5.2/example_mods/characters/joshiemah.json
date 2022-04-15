@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				424,
+				-148
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "joshiemah up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				386,
+				-144
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "joshiemah left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				290,
+				-140
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "joshiemah idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				333,
+				-141
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "joshiemah right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				454,
+				-153
+			],
+			"anim": "singDOWN",
+			"fps": 25,
+			"name": "joshiemah down",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/joshiemah",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "joemah",
+	"flip_x": false,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		-440,
+		320
+	],
+	"sing_duration": 4,
+	"scale": 0.8
+}
